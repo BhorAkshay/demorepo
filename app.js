@@ -5,7 +5,7 @@ var product ={
     description:"Valentine Flower",
     unitprice:25,
     likes:500,
-    quantity:1000
+    quantity:5000
 };
 
 var count=45;
